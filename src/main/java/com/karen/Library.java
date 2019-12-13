@@ -4,6 +4,7 @@
  *
  * @author karen_ki, @date 12/13/19 8:05 PM
  */
+package com.karen;
 public class Library {
     public String getMessage() {
         return "Hi from lib";
